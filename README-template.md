@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[https://github.com/codejeroo/article-preview-component-master]
+- Solution URL:[https://github.com/codejeroo/faq-accordion]
 - Live Site URL:[https://codejeroo.github.io/article-preview-component-master/]
 
 
